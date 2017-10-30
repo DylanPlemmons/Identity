@@ -187,8 +187,8 @@ body {
 	height: 100%;
 	background-color: #ffffff;
 	background-image: url("../../images/absurdity.png"), url("../../images/bg - Copy.jpg");
-	background-repeat: repeat, no-repeat, no-repeat;
-	background-size: 1920px 1080px, cover, cover;
+	background-repeat: repeat, no-repeat;
+	background-size: 4px, cover;
 	background-position: top left, center center, bottom center;
 	background-attachment: fixed, fixed, fixed;
 }
@@ -206,7 +206,7 @@ body:after {
 	background-color: #ffffff;
 	background-image: url("../../images/absurdity.png"), url("../../images/bg - Copy.jpg");
 	background-repeat: repeat, no-repeat;
-	background-size: 100px 100px, cover;
+	background-size: 4px, cover;
 	background-position: top left, center center;
 	-moz-transition: opacity 1.75s ease-out;
 	-webkit-transition: opacity 1.75s ease-out;
