@@ -204,7 +204,7 @@ body:after {
 	opacity: 0;
 	z-index: 1;
 	background-color: #ffffff;
-	background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+	background-image: url("../../images/absurdity.png"), url("../../images/bg - Copy.jpg");
 	background-repeat: repeat, no-repeat;
 	background-size: 100px 100px, cover;
 	background-position: top left, center center;
